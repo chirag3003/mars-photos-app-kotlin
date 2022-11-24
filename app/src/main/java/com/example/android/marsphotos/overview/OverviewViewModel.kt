@@ -40,7 +40,7 @@ class OverviewViewModel : ViewModel() {
         getMarsPhotos()
     }
 
-    /**
+    /**1
      * Gets Mars photos information from the Mars API Retrofit service and updates the
      * [MarsPhoto] [List] [LiveData].
      */
